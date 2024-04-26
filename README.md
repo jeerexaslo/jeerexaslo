@@ -10,7 +10,7 @@
 jeerexaslo/jeerexaslo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](protfolio.png)
+![logo](images.jpeg)
 
 <h1 align="center">Hi 👋, I'm Jeet pavar</h1>
 <h3 align="center">A passionate full stack webdevloper from India</h3>
